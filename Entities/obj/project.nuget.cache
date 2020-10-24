@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3hmp5xqeKx+5pQ2TxVArj62qE4GcLnSnVNluXZ977rfY3OnKLubSgC0exqCFmQdxLbMETcELLh6rrhjtHUNbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kinqw\\source\\repos\\MagazaYonetim\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kinqw\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kinqw\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Kinqw\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

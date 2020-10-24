@@ -1,0 +1,12 @@
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Kinqw\source\repos\MagazaYonetim\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
